@@ -1,16 +1,23 @@
-## Hi there 👋
+# 📚 Proyecto de Programación - Diversificado
 
-<!--
-**gemamonterroso/gemamonterroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Esta es nuestra tarea de página web desarrollada con **React** y **Vite**.
 
-Here are some ideas to get you started:
+## 👥 Integrantes del Grupo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+López Monterroso, Gema del Rosario Mayarí (20)
+Mayén Maldonado, Sergio Emilio (21)
+Méndez López, Josselyn Alejandra (22)
+Monroy Bran, Yara Jimena (23)
+Morales Botello, Nicolás Sebastián (24)
+Muñoz Aldana, Daniel Eduardo (25)
+
+
+## 🚀 Instrucciones para el maestro:
+
+Para poder ejecutar nuestra página en otra computadora:
+1. Abrir la terminal en esta carpeta.
+2. Ejecutar `npm install` para descargar las dependencias.
+3. Ejecutar `npm run dev` para encender el servidor local.
+
+---
+
