@@ -1,4 +1,4 @@
-import showcase from "@/assets/showcase-treats.png";
+import showcase from "../assets/showcase-treats.png";
 
 const Showcase = () => {
   return (
