@@ -1,5 +1,5 @@
-import logo from "@/assets/logo.jpg";
-import hero from "@/assets/hero-tarts.jpg";
+import logo from "../assets/logo.jpg";
+import hero from "../assets/hero-tarts.jpg";
 
 const Hero = () => {
   return (
