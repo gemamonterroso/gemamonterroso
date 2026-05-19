@@ -1,4 +1,4 @@
-import banner from "@/assets/banner-treatss.png";
+import banner from "../assets/banner-treatss.png";
 
 const Banner = () => {
   return (
