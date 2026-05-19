@@ -1,9 +1,9 @@
 import Navbar from "./Navbar";
-import Hero from "@/components/Hero";
-import Products from "@/components/Products";
-import Showcase from "@/components/Showcase";
-import Banner from "@/components/Banner";
-import Valores from "@/components/Valores";
+import Hero from "../components/Hero";
+import Products from "../components/Products";
+import Showcase from "../components/Showcase";
+import Banner from "../components/Banner";
+import Valores from "../components/Valores";
 
 const Index = () => {
   return (
@@ -16,6 +16,6 @@ const Index = () => {
       <Valores />
     </main>
   );
-};
+ };
 
 export default Index;
