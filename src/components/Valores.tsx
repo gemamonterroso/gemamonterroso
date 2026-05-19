@@ -1,4 +1,4 @@
-import collage from "@/assets/collage-treats.png";
+import collage from "../assets/collage-treats.png";
 
 const valores = [
   {
