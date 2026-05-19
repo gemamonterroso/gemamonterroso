@@ -1,12 +1,12 @@
 import { useState } from "react";
-import p1 from "@/assets/prod-1.jpg";
-import p2 from "@/assets/prod-2.jpg";
-import p3 from "@/assets/prod-3.jpg";
-import p4 from "@/assets/hero-tarts-original.jpg";
-import p5 from "@/assets/prod-5.jpg";
-import p6 from "@/assets/prod-6.jpg";
-import p7 from "@/assets/prod-7.jpg";
-import p8 from "@/assets/prod-4.jpg";
+import p1 from "../assets/prod-1.jpg";
+import p2 from "../assets/prod-2.jpg";
+import p3 from "../assets/prod-3.jpg";
+import p4 from "../assets/hero-tarts-original.jpg";
+import p5 from "../assets/prod-5.jpg";
+import p6 from "../assets/prod-6.jpg";
+import p7 from "../assets/prod-7.jpg";
+import p8 from "../assets/prod-4.jpg";
 
 const products = [
   { img: p4, name: "Tartaletas de frutas", price: "Q15", desc: "Masa quebrada rellena de crema y frutas frescas de temporada." },
